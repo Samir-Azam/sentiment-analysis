@@ -267,14 +267,6 @@ Confidence: 97%+
 * Cloud deployment
 * Advanced hyperparameter optimization
 
----
-
-## Resume Highlights
-
-* Built an end-to-end NLP sentiment classification system on 50K Amazon product reviews using TF-IDF vectorization and Logistic Regression.
-* Achieved **87.46% Accuracy** and **94.75% ROC-AUC** on binary sentiment classification.
-* Performed cross-validation, confusion matrix evaluation, learning curve analysis, and error analysis.
-* Developed an interactive Streamlit application for real-time sentiment prediction and batch review analysis.
 
 ---
 
